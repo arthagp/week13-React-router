@@ -1,0 +1,5 @@
+1. install dependencies yang di perlukan : 
+    - react-router-dom
+    - axios
+    - chakra Ui
+
